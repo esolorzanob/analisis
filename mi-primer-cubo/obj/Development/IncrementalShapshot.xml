@@ -19,49 +19,49 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>2MGKjkSZz01mbxuTtB0rY90cNaA=11/10/2016 1:49:32 PM11/10/2016 1:14:20 PM</TimeStamp>
+        <TimeStamp>2MGKjkSZz01mbxuTtB0rY90cNaA=11/10/2016 1:49:34 PM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>My Db</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>4A7WZ1njQuZjGTek3YsRAsb5XRE=11/10/2016 3:22:46 PM11/10/2016 1:14:20 PM</TimeStamp>
+        <TimeStamp>vgGUc4xL5QUln3LjWVL63Y8rU5A=11/11/2016 11:22:48 AM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>My Db</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>aax6NRHR3ToYoL9SwZIRhkYbdhk=11/10/2016 3:04:18 PM11/10/2016 1:14:20 PM</TimeStamp>
+        <TimeStamp>aax6NRHR3ToYoL9SwZIRhkYbdhk=11/10/2016 3:37:50 PM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>Dim Employees</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>JN3/QU4BT6atq8GCy/JQxZ6Y/OM=11/4/2016 8:04:06 PM11/10/2016 1:14:20 PM</TimeStamp>
+        <TimeStamp>JN3/QU4BT6atq8GCy/JQxZ6Y/OM=11/4/2016 8:04:06 PM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>DimTime</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>9QNOQ8L9+D2JwP/Dgo9+fp/e/7c=11/10/2016 3:04:18 PM11/10/2016 3:02:02 PM</TimeStamp>
+        <TimeStamp>7/uj/TUl2BcmZj2KhzL9xMUhOX0=11/11/2016 11:24:27 AM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>Dim Customers</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>3oalqdLnWhdrk3P7j/2FIisqphA=11/10/2016 3:08:28 PM11/10/2016 3:06:27 PM</TimeStamp>
+        <TimeStamp>3oalqdLnWhdrk3P7j/2FIisqphA=11/10/2016 3:08:30 PM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>Dim Products</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>zXDLOunokqKkX2+50Hn9AVHXvxI=11/10/2016 3:22:46 PM11/10/2016 1:14:20 PMWGSSTEFAIPZYYLgcOPldb2DuJtE=11/10/2016 3:18:33 PM11/10/2016 1:14:20 PM</TimeStamp>
+        <TimeStamp>RJKMP1T3CUQXbuFjNYE4Yq+fjBc=11/11/2016 11:28:19 AM11/11/2016 11:21:39 AMWGSSTEFAIPZYYLgcOPldb2DuJtE=11/10/2016 3:18:34 PM11/11/2016 11:21:39 AM</TimeStamp>
         <ID>
           <String>My Db</String>
         </ID>
@@ -69,7 +69,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>yrJcnGnUMMayoDN/WUTsXtV9oZk=10/28/2016 7:14:16 PM11/10/2016 1:14:20 PM</TimeStamp>
+      <TimeStamp>yrJcnGnUMMayoDN/WUTsXtV9oZk=10/28/2016 7:14:16 PM11/11/2016 11:21:39 AM</TimeStamp>
       <ID>
         <String>mi-primer-cubo</String>
       </ID>
@@ -78,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-11-10T21:22:55.16Z</LastDeployed>
+  <LastDeployed>2016-11-11T17:28:21.456667Z</LastDeployed>
 </DeploymentSnapshot>
